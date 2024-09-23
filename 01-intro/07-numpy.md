@@ -1,7 +1,6 @@
 ## 1.7 Introduction to NumPy
 
-<a href="https://www.youtube.com/watch?v=Qa0-jYtRdbY&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=7"><img src="images/thumbnail-1-07.jpg"></a>
-
+[![1.7 Introduction to NumPy](https://img.youtube.com/vi/Qa0-jYtRdbY/0.jpg)](https://www.youtube.com/watch?v=Qa0-jYtRdbY)
 
 ## Notes
 

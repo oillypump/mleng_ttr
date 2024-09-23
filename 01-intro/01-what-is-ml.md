@@ -1,6 +1,7 @@
 ## 1.1 Introduction to Machine Learning
 
-<a href="https://www.youtube.com/watch?v=Crm_5n4mvmg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=2"><img src="images/thumbnail-1-01.jpg"></a>
+
+[![Machine Learning Zoomcamp 2024 Launch Stream](https://img.youtube.com/vi/8wuR_Oz-to0/0.jpg)](https://www.youtube.com/watch?v=8wuR_Oz-to)
 
 [Slides](https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-11-introduction-to-machine-learning)
 
