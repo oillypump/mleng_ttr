@@ -27,11 +27,11 @@
 - 1.9 [Introduction to Pandas](01-intro/09-pandas.md)
 - 1.10 [Summary](01-intro/10-summary.md)
 - 1.11 [Homework](01-intro/homework.md)
-<!-- 
 
 ## 2. [Machine Learning for Regression](02-regression/)
 
 - 2.1 [Car price prediction project](02-regression/01-car-price-intro.md)
+<!-- 
 - 2.2 [Data preparation](02-regression/02-data-preparation.md)
 - 2.3 [Exploratory data analysis](02-regression/03-eda.md)
 - 2.4 [Setting up the validation framework](02-regression/04-validation-framework.md)
