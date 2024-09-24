@@ -31,10 +31,10 @@
 ## 2. [Machine Learning for Regression](02-regression/)
 
 - 2.1 [Car price prediction project](02-regression/01-car-price-intro.md)
-<!-- 
 - 2.2 [Data preparation](02-regression/02-data-preparation.md)
 - 2.3 [Exploratory data analysis](02-regression/03-eda.md)
 - 2.4 [Setting up the validation framework](02-regression/04-validation-framework.md)
+<!-- 
 - 2.5 [Linear regression](02-regression/05-linear-regression-simple.md)
 - 2.6 [Linear regression: vector form](02-regression/06-linear-regression-vector.md)
 - 2.7 [Training linear regression: Normal equation](02-regression/07-linear-regression-training.md)
