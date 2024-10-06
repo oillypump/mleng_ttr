@@ -27,7 +27,6 @@
 - 1.9 [Introduction to Pandas](01-intro/09-pandas.md)
 - 1.10 [Summary](01-intro/10-summary.md)
 - 1.11 [Homework](01-intro/homework.md)
-<!-- 
 
 ## 2. [Machine Learning for Regression](02-regression/)
 
@@ -37,6 +36,7 @@
 - 2.4 [Setting up the validation framework](02-regression/04-validation-framework.md)
 - 2.5 [Linear regression](02-regression/05-linear-regression-simple.md)
 - 2.6 [Linear regression: vector form](02-regression/06-linear-regression-vector.md)
+<!-- 
 - 2.7 [Training linear regression: Normal equation](02-regression/07-linear-regression-training.md)
 - 2.8 [Baseline model for car price prediction project](02-regression/08-baseline-model.md)
 - 2.9 [Root mean squared error](02-regression/09-rmse.md)

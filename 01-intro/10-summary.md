@@ -1,7 +1,6 @@
 ## 1.10 Summary
 
-<a href="https://www.youtube.com/watch?v=VRrEEVeJ440&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=10"><img src="images/thumbnail-1-10.jpg"></a>
-
+[![1.10 Summary](https://img.youtube.com/vi/VRrEEVeJ440/0.jpg)](https://www.youtube.com/watch?v=VRrEEVeJ440)
 [Slides](https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-110-summary)
 
 

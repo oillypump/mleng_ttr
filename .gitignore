@@ -1,1 +1,14 @@
 .venv
+
+# generated
+.ipynb_checkpoints/
+__pycache__/
+**my_dir/
+**logs/
+**models/
+
+# file types
+*.h5
+*.tflite
+*.zip
+*.pdf

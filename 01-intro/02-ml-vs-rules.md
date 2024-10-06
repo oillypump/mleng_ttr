@@ -1,6 +1,6 @@
 ## 1.2 ML vs Rule-Based Systems
 
-<a href="https://www.youtube.com/watch?v=CeukwyUdaz8&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=3"><img src="images/thumbnail-1-02.jpg"></a>
+[![ML Zoomcamp 1.2 - ML vs Rule-Based Systems](https://img.youtube.com/vi/CeukwyUdaz8/0.jpg)](https://www.youtube.com/watch?v=CeukwyUdaz8)
 
 [Slides](https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-12-ml-vs-rulebased-systems)
 

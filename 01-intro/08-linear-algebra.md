@@ -1,7 +1,6 @@
 ## 1.8 Linear Algebra Refresher
 
-<a href="https://www.youtube.com/watch?v=zZyKUeOR4Gg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=8"><img src="images/thumbnail-1-08.jpg"></a>
-
+[![1.8 Linear Algebra Refresher](https://img.youtube.com/vi/zZyKUeOR4Gg/0.jpg)](https://www.youtube.com/watch?v=zZyKUeOR4Gg)
 [Slides](https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-18-linear-algebra-refresher)
 
 
