@@ -14,7 +14,7 @@
 
 ### Contents
 
-## 1. [Introduction to Machine Learning](01-intro/)
+## 1. [Introduction to Machine Learning](01-intro/readme.md)
 
 - 1.1 [Introduction to Machine Learning](01-intro/01-what-is-ml.md)
 - 1.2 [ML vs Rule-Based Systems](01-intro/02-ml-vs-rules.md)
@@ -28,7 +28,7 @@
 - 1.10 [Summary](01-intro/10-summary.md)
 - 1.11 [Homework](01-intro/homework.md)
 
-## 2. [Machine Learning for Regression](02-regression/)
+## 2. [Machine Learning for Regression](02-regression/readme.md)
 
 - 2.1 [Car price prediction project](02-regression/01-car-price-intro.md)
 - 2.2 [Data preparation](02-regression/02-data-preparation.md)
@@ -36,7 +36,6 @@
 - 2.4 [Setting up the validation framework](02-regression/04-validation-framework.md)
 - 2.5 [Linear regression](02-regression/05-linear-regression-simple.md)
 - 2.6 [Linear regression: vector form](02-regression/06-linear-regression-vector.md)
-<!-- 
 - 2.7 [Training linear regression: Normal equation](02-regression/07-linear-regression-training.md)
 - 2.8 [Baseline model for car price prediction project](02-regression/08-baseline-model.md)
 - 2.9 [Root mean squared error](02-regression/09-rmse.md)
@@ -51,9 +50,10 @@
 - 2.18 [Homework](02-regression/homework.md)
 
 
-## 3. [Machine Learning for Classification](03-classification/)
+## 3. [Machine Learning for Classification](03-classification/readme.md)
 
 - 3.1 [Churn prediction project](03-classification/01-churn-project.md)
+<!-- 
 - 3.2 [Data preparation](03-classification/02-data-preparation.md)
 - 3.3 [Setting up the validation framework](03-classification/03-validation.md)
 - 3.4 [EDA](03-classification/04-eda.md)
