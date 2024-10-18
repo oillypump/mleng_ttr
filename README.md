@@ -53,7 +53,6 @@
 ## 3. [Machine Learning for Classification](03-classification/readme.md)
 
 - 3.1 [Churn prediction project](03-classification/01-churn-project.md)
-<!-- 
 - 3.2 [Data preparation](03-classification/02-data-preparation.md)
 - 3.3 [Setting up the validation framework](03-classification/03-validation.md)
 - 3.4 [EDA](03-classification/04-eda.md)
@@ -70,8 +69,9 @@
 - 3.15 [Homework](03-classification/homework.md)
 
 
-## 4. [Evaluation Metrics for Classification](04-evaluation/)
+## 4. [Evaluation Metrics for Classification](04-evaluation/readme.md)
 
+<!-- 
 - 4.1 [Evaluation metrics: session overview](04-evaluation/01-overview.md)
 - 4.2 [Accuracy and dummy model](04-evaluation/02-accuracy.md)
 - 4.3 [Confusion table](04-evaluation/03-confusion-table.md)
