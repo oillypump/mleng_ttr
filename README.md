@@ -5,7 +5,7 @@ Parts of [Machine Learning Engineering course](https://github.com/DataTalksClub/
 
 
   Title                                   | Homework                      | status|
-------------------------------------------|:------------------------------|:----|
+:------------------------------------------|:------------------------------|:----
 [Introduction to Machine Learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/01-intro)             |  [Week 1](01-intro/)          |:white_check_mark:
 [Machine Learning for Regression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/02-regression)         |  [Week 2](02-regression/)     |:white_check_mark:
 [Machine Learning for Classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/03-classification) |  [Week 3](03-classification/) |:white_check_mark:
